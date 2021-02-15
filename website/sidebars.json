@@ -1,0 +1,7 @@
+{
+  "docs": {
+    "Regras de Negócio": ["doc1"],
+    "Casos de Uso": ["doc2"],
+    "Histórias de Usuário": ["doc3", "doc4"]
+  }
+}
