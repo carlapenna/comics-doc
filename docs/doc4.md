@@ -4,7 +4,7 @@ title: Loja Online Comics | Histórias de Usuário
 sidebar_label: Administrador
 ---
 
-## 2. Gerenciar pedidos
+## 2. Gerenciar pedidos como administrador
 <b>Como</b> administrador <br>
 <b>Eu quero</b> poder controlar os pedidos feitos por clientes <br>
 <b>Para</b> enviar os quadrinhos comprados

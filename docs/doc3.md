@@ -4,7 +4,7 @@ title: Loja Online Comics | Histórias de Usuário
 sidebar_label: Cliente
 ---
 
-## 1. Fazer pedido
+## 1. Fazer pedido como cliente
 <b>Como</b> cliente <br>
 <b>Eu quero</b> poder fazer um pedido <br>
 <b>Para</b> receber meus quadrinhos
@@ -58,3 +58,13 @@ sidebar_label: Cliente
 <b>Como</b> cliente <br>
 <b>Eu quero</b> poder fechar meu pedido <br>
 <b>Para</b> verificar qual valor total dos meus itens escolhidos
+
+## 1.11. Acompanhar status do pedido
+<b>Como</b> cliente <br>
+<b>Eu quero</b> poder acompanhar o status do meu pedido <br>
+<b>Para</b> saber quando receberei meu pedido
+
+## 1.12. Cancelar pedido
+<b>Como</b> cliente <br>
+<b>Eu quero</b> poder cancelar meu pedido <br>
+<b>Para</b> estornar o valor do pedido
