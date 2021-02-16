@@ -21,16 +21,16 @@ Yarn >= 1.5.
 $ git clone <https://github.com/carlapenna/comics-doc>
 
 # Execute o script de instalação do Docusaurus: 
-yarn global add docusaurus-init ou npm install --global docusaurus-init
+yarn global add docusaurus-init
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd comics-doc
 
-# Instale as dependências
-$ npm install
-
 # Acesse a pasta website
 $ cd website
+
+# Instale as dependências
+$ yarn install
 
 # Execute a aplicação
 $ yarn start
