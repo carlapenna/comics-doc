@@ -9,8 +9,8 @@
 ### 📦 Pré-requisitos
 ```
 1. Antes de começar, você vai precisar verificar se possui a versão mais recente do Node instalada. 
-É recomendado que você também instale o Yarn.<br>
-Node >= 10.9.0<br>
+É recomendado que você também instale o Yarn.
+Node >= 10.9.0
 Yarn >= 1.5.
 ```
 
